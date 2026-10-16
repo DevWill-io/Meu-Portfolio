@@ -2,7 +2,7 @@
 
 Portfólio pessoal desenvolvido com **React + Vite**, apresentando minha trajetória como estudante de **Informática para Internet no IFRN – Campus Caicó** e desenvolvedor web em formação.
 
-🔗 **Acesse online:** [SEU-DOMINIO.vercel.app](https://SEU-DOMINIO.vercel.app)
+🔗 **Acesse online:** [DevWil-io.vercel.app](https://DevWill-io.vercel.app)
 
 ---
 
